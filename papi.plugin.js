@@ -1,4 +1,4 @@
-//META{"name":"OwnerCrown","displayName":"Owner Crown","website":"https://github.com/VotreNom/OwnerCrown","source":"https://raw.githubusercontent.com/VotreNom/OwnerCrown/main/OwnerCrown.plugin.js"}*//
+//META{"name":"OwnerCrown","displayName":"Owner Crown","website":"https://github.com/DeadpoolProtect/papi.plugin.js","source":"https://github.com/DeadpoolProtect/papi.plugin.js/blob/main/papi.plugin.js"}*//
 
 const OwnerCrown = (() => {
   const config = {
